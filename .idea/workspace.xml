@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fc53cd6-de76-446b-87c2-d16ead756373" name="Default Changelist" comment="" />
+    <list default="true" id="0fc53cd6-de76-446b-87c2-d16ead756373" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/loftschool-geo-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/DND.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/entry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/getClustererTemplate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/ballon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/review.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/window.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/layout/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/layout/normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/index.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/review-temp.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/single-review.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +40,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RKU4rpwZ7qvZE5bukoQ1CIbqKJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -45,10 +76,22 @@
       <workItem from="1569415576613" duration="2543000" />
       <workItem from="1569522384525" duration="553000" />
       <workItem from="1569583808597" duration="406000" />
+      <workItem from="1569584325306" duration="475000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
